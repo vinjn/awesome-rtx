@@ -1,5 +1,5 @@
 # awesome-rtx
-Curated collection of projects leveraging NVIDIA RTX technology (OptiX, DXT, VKR)
+Curated collection of projects leveraging NVIDIA RTX technology (OptiX, DXR, VKR)
 
 # Generic
 - [Ray Tracing Gems](http://www.realtimerendering.com/raytracinggems/).
