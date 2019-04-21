@@ -16,6 +16,7 @@ Curated collection of projects leveraging NVIDIA RTX technology (OptiX, DXT, VKR
 # VKR
 -  [Simple RTX Vulkan raytracing tutorials](https://github.com/iOrange/rtxON). [MIT]
 -  [Ray Tracing In One Weekend (Vulkan RTX)](https://github.com/GPSnoopy/RayTracingInVulkan) - Implementation of Peter Shirley's Ray Tracing In One Weekend book using Vulkan and NVIDIA's RTX extension.
+- [VKR sample from Sascha Willems](https://github.com/SaschaWillems/Vulkan/tree/master/examples/nv_ray_tracing_basic).
 
 # OptiX
 - [VLR](https://github.com/shocker-0x15/VLR) - Monte Carlo Ray Tracing Renderer.
