@@ -2,7 +2,10 @@
 Curated collection of projects leveraging NVIDIA RTX technology (OptiX, DXT, VKR)
 
 # Generic
-- [Ray Tracing Gems](http://www.realtimerendering.com/raytracinggems/)
+- [Ray Tracing Gems](http://www.realtimerendering.com/raytracinggems/).
+- [Introduction to NVIDIA RTX and DirectX Ray Tracing](https://devblogs.nvidia.com/introduction-nvidia-rtx-directx-ray-tracing/.
+- [RTX topics in NVIDIA developer site](https://devblogs.nvidia.com/tag/dxr/).
+- [DirectX Spec - Raytracing](https://microsoft.github.io/DirectX-Specs/d3d/Raytracing.html).
 
 # DXR
 - [NVIDIA's early DXR samples](https://github.com/NVIDIAGameWorks/DxrTutorials)
