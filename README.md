@@ -13,6 +13,7 @@ Curated collection of projects leveraging NVIDIA RTX technology (OptiX, DXR, VKR
 - [GettingStartedWithRTXRayTracing](https://github.com/NVIDIAGameWorks/GettingStartedWithRTXRayTracing) - Chris Wyman's SIGGRAPH 2018 Course "Introduction to DirectX Raytracing"
 - [Microsoft's D3D12 Raytracing Samples](https://github.com/Microsoft/DirectX-Graphics-Samples/tree/master/Samples/Desktop/D3D12Raytracing)
 - [dxr-path-tracing](https://github.com/RikoOphorst/dxr-path-tracing)
+- [DXRExperiments](https://github.com/philcn/DXRExperiments) - lightweight prototyping framework for DirectX Raytracing build upon Microsoft DXR Fallback Layer.
 
 # VKR
 - [Simple RTX Vulkan raytracing tutorials](https://github.com/iOrange/rtxON). [MIT]
