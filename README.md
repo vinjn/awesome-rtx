@@ -22,6 +22,7 @@ Curated collection of projects leveraging NVIDIA RTX technology (OptiX, DXR, VKR
 
 # OptiX
 - [VisRTX](https://github.com/NVIDIA/VisRTX) - Visualization framework powered by NVIDIA RTX technology. [LICENSE](https://github.com/NVIDIA/VisRTX/blob/master/LICENSE)
+- [Fermat](https://github.com/NVlabs/fermat) - research oriented physically based rendering system.
 - [VLR](https://github.com/shocker-0x15/VLR) - Monte Carlo Ray Tracing Renderer.
 - [Optix-PathTracer](https://github.com/knightcrawler25/Optix-PathTracer) - Simple physically based path tracer.
 - [Official OptiX Samples](https://github.com/nvpro-samples/optix_advanced_samples).
