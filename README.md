@@ -16,6 +16,7 @@ Curated collection of projects leveraging NVIDIA RTX technology (OptiX, DXR, VKR
 - [DXRExperiments](https://github.com/philcn/DXRExperiments) - lightweight prototyping framework for DirectX Raytracing build upon Microsoft DXR Fallback Layer.
 - [DXRPathTracer](https://github.com/TheRealMJP/DXRPathTracer) - (very) simple path tracer implemented using DirectX Ray Tracing (DXR). [MIT]
 - [RayTracing OBJ Viewer](https://github.com/Twinklebear/rtobj) - example of OBJ rendering with OSPRay, Embree and OptiX. [MIT]
+- [WispRenderer](https://github.com/TeamWisp/WispRenderer) - RTX Ray Tracing Renderer, made by Y3 students at Breda University of Applied Science. https://teamwisp.github.io [EPL-2.0]
 
 # VKR
 - [Simple RTX Vulkan raytracing tutorials](https://github.com/iOrange/rtxON). [MIT]
