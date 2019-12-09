@@ -34,6 +34,10 @@ Curated collection of projects leveraging NVIDIA RTX technology (OptiX, DXR, VKR
 - [RTOW-OptiX](https://github.com/ingowald/RTOW-OptiX) - OptiX version of Pete Shirley's "Ray Tracing in One Weekend".
 - [Volumetric-Path-Tracer](https://github.com/sergeneren/Volumetric-Path-Tracer) - VPT is a path tracer to render open vdb volume files using Nvidia gvdb library and Cuda. [BSD-3]
 
+# Multiple-backends
+- [ChameleonRT](https://github.com/Twinklebear/ChameleonRT) - example path tracer which runs on multiple ray tracing backends (Embree/DXR/OptiX/Vulkan/OSPRay) [MIT
+- [lighthouse2](https://github.com/jbikker/lighthouse2) - rendering framework for real-time ray tracing / path tracing experiments. [Apache License 2.0]
+
 # Game engines
 - [Unity](https://unity.com/ray-tracing)
 - [Unreal](https://docs.unrealengine.com/en-us/Engine/Rendering/RayTracing)
